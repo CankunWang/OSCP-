@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "5b6b22b034d901d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c419c381bb821594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34750a4e79acacff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enumeration/Index - Recon Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index - Recon Commands"
+            }
+          },
+          {
+            "id": "312182b27468bfca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Labs/THM/assets/Pasted image 20260129202331.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260129202331"
+            }
+          },
+          {
+            "id": "fe8b50a42b45c16b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Labs/THM/assets/Pasted image 20260129202733.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260129202733"
+            }
+          },
+          {
+            "id": "bd0d4e01576e44f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Labs/THM/Retro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Retro"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7797066581915c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "adee3e04559d74b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5bad0761378417b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5319c234bb9d666b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b8965370b3bce26b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa3fc55e557d515b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b1e77b6e73d6abd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7d899906ba0020",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Labs/THM/Retro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Retro 的反向链接列表"
+            }
+          },
+          {
+            "id": "8e7636187f5e1577",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Labs/THM/Retro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Retro 的出链列表"
+            }
+          },
+          {
+            "id": "6567c90c946cb59e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "106a08dc8fe6b1d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "63bfce08151e15c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Labs/THM/Retro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Retro 的大纲"
+            }
+          },
+          {
+            "id": "c9a17fd0c37d909b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bd0d4e01576e44f0",
+  "lastOpenFiles": [
+    "Labs/THM/assets/Pasted image 20260130203203.png",
+    "Labs/THM/assets/Pasted image 20260130202052.png",
+    "Labs/THM/assets/Pasted image 20260130201408.png",
+    "Labs/THM/assets/Pasted image 20260130201347.png",
+    "Labs/THM/assets/Pasted image 20260130201044.png",
+    "PrivEsc/Windows/msf后渗透提权路径检查.md",
+    "Labs/THM/Retro.md",
+    "PrivEsc/Windows/Reverse shell.md",
+    "PrivEsc/Windows/xfreerdp3 （windows远程rdp登录）.md",
+    "Templates/Template1.md",
+    "Enumeration/Gobuster快速目录枚举.md",
+    "PEASS-ng.md",
+    "Labs/THM/assets/Pasted image 20260130104059.png",
+    "Labs/THM/assets/Pasted image 20260130102830.png",
+    "Labs/THM/assets/Pasted image 20260130102719.png",
+    "Labs/THM/assets/Pasted image 20260130102603.png",
+    "Labs/THM/assets/Pasted image 20260130102551.png",
+    "未命名",
+    "Labs/THM/assets/Pasted image 20260129212733.png",
+    "Enumeration/未命名.md",
+    "Labs/THM/assets",
+    "Enumeration/Nmap详细扫描.md",
+    "ass.md",
+    "assets",
+    "未命名.base",
+    "Dashboard.md",
+    "Enumeration/Nmap快速批量扫描.md",
+    "Enumeration/Nmap深度漏洞脚本扫描.md",
+    "Enumeration/Index - Recon Commands.md",
+    "Labs/THM",
+    "Templates",
+    "欢迎.md",
+    "Labs",
+    "Labs.md",
+    "AD.md",
+    "AD",
+    "PrivEsc/Linux",
+    "PrivEsc/Windows"
+  ]
+}
