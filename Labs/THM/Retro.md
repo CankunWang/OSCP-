@@ -1,6 +1,6 @@
 ---
-Status: "#Not-Started"
-OS:
+Status: "#Complete"
+OS: windows
 ip:
 Start_Time: 2026-01-29 16:53
 ---
