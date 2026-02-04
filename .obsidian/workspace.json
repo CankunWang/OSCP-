@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/THM/Robots.md",
+                "file": "AD/Manual Enumeration 手动枚举AD域.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Robots"
+              "title": "Manual Enumeration 手动枚举AD域"
             }
           }
         ]
@@ -199,6 +199,15 @@
   },
   "active": "bd0d4e01576e44f0",
   "lastOpenFiles": [
+    "AD/GetNPUsers.py Impacket下属的脚本.md",
+    "AD/Rubeus 用于windows的Kerberos enumeration工具.md",
+    "AD/Manual Enumeration 手动枚举AD域.md",
+    "AD/assets/Pasted image 20260203171518.png",
+    "AD/assets/Pasted image 20260203171500.png",
+    "AD/assets/Pasted image 20260203170335.png",
+    "AD/assets",
+    "Enumeration/Nmap深度漏洞脚本扫描.md",
+    "Labs/THM/Robots.md",
     "Labs/THM/assets/Pasted image 20260203100825.png",
     "Labs/THM/assets/Pasted image 20260203100720.png",
     "Labs/THM/assets/Pasted image 20260203100625.png",
@@ -207,12 +216,7 @@
     "Labs/THM/assets/Pasted image 20260203095906.png",
     "Labs/THM/assets/Pasted image 20260203094653.png",
     "PrivEsc/Linux/敏感目录.md",
-    "Labs/THM/Robots.md",
-    "Labs/THM/assets/Pasted image 20260203092218.png",
-    "Labs/THM/assets/Pasted image 20260203091952.png",
-    "Labs/THM/assets/Pasted image 20260203091541.png",
     "PrivEsc/Linux/PHP请求database.md",
-    "Labs/THM/assets/Pasted image 20260203000944.png",
     "PrivEsc/Linux/内网不可达，通过pipe in out解决.md",
     "PrivEsc/Linux/容器逃逸 enumeration相关命令.md",
     "PrivEsc/Windows/Reverse shell.md",
@@ -220,7 +224,6 @@
     "Exploitation/hydra暴力破解登录页面.md",
     "Exploitation/assets",
     "Enumeration/Nmap详细扫描.md",
-    "Enumeration/Nmap深度漏洞脚本扫描.md",
     "Exploitation",
     "Enumeration/Gobuster快速目录枚举.md",
     "Labs/THM/Retro.md",
@@ -239,11 +242,7 @@
     "未命名.base",
     "Labs/THM",
     "Templates",
-    "欢迎.md",
     "Labs",
-    "Labs.md",
-    "AD.md",
-    "AD",
-    "PrivEsc/Linux"
+    "AD"
   ]
 }
