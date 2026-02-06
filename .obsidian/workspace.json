@@ -214,8 +214,9 @@
   },
   "active": "c8415ad2845f3d16",
   "lastOpenFiles": [
-    "Labs/THM/Ledger.md",
+    "Enumeration/LLMNR 和 NBT-NS Poisoning.md",
     "AD/Checklists/AD域 checklists.md",
+    "Labs/THM/Ledger.md",
     "AD/GetNPUsers.py Impacket下属的脚本.md",
     "AD/ldapsearch 空会话时可以使用.md",
     "AD/bloodhound-python 枚举命令.md",
@@ -253,7 +254,6 @@
     "Exploitation/assets",
     "Exploitation",
     "Labs/THM/Retro.md",
-    "Enumeration/Index - Recon Commands.md",
     "Labs/THM/assets",
     "assets",
     "未命名.base",
