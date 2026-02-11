@@ -37,7 +37,7 @@ nmap -Pn -sV -sC -p <PORTS> <IP> -oN nmap_detailed
 
 ![[assets/Pasted image 20260210094246.png]]
 
-	I opened the target's wordpress page and find a lost password function. I clicked it and it returned error message " can't find server avenger.tryhackme". So I related the ip address and the avenger.tryhackme together, now the target access it.
+	I opened the target's wordpress page and find a lost password function. I clicked it and it returned error message " can't find server avenger.tryhackme". So I related the ip address and the avenger.tryhackme together, now the I can access the target.
 ---
 ![[assets/Pasted image 20260210100738.png]]
 	I tried to view the xmlrpc.php and it returned " only access post request".
